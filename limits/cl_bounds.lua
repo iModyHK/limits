@@ -7,15 +7,15 @@
 CreateThread(function()
     while true do
         ExpandWorldLimits(
-            -9999999.0,
-            -9999999.0,
-            9999999.0
+            -9000.0,
+            -11000.0,
+            30.0
         )  
         ExpandWorldLimits(
-            9999999.0,
-            9999999.0,
-            9999999.0
+            10000.0,
+            12000.0,
+            30.0
         ) 
-        Wait(0)
+		Wait(0)
     end
 end)
