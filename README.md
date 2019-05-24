@@ -5,4 +5,6 @@ If you have addon map this script will help a lot
 #installation  
 1-drag limits to your resources folder  
 2- start limits in server.cfg  
-3-done
+3-done  
+  
+
