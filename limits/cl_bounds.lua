@@ -7,13 +7,13 @@
 CreateThread(function()
     while true do
         ExtendWorldBoundaryForPlayer(
-            -9000.0,
-            -11000.0,
+            -90000.0,
+            -110000.0,
             30.0
         )  
         ExtendWorldBoundaryForPlayer(
-            10000.0,
-            12000.0,
+            100000.0,
+            120000.0,
             30.0
         ) 
 		Wait(0)
